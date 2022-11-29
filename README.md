@@ -1,16 +1,17 @@
-Gender Classification on Twitter Users with SVM
+#Gender Classification on Twitter Users with SVM
 
-About Dataset
-This data set was used to train a CrowdFlower AI gender predictor. You can read all about the project here. Contributors were asked to simply view a Twitter profile and judge whether the user was a male, a female, or a brand (non-individual). The dataset contains 20,000 rows, each with a user name, a random tweet, account profile and image, location, and even link and sidebar color.
 
-Inspiration
-Here are a few questions you might try to answer with this dataset:
+##About Dataset
+This data set was used to train a CrowdFlower AI gender predictor. Contributors were asked to simply view a Twitter profile and judge whether the user was a male, a female, or a brand (non-individual). The dataset contains 20,000 rows, each with a user name, a random tweet, account profile and image, location, and even link and sidebar color.
+
+#Inspiration
 
 how well do words in tweets and profiles predict user gender?
 what are the words that strongly predict male or female gender?
 how well do stylistic factors (like link color and sidebar color) predict user gender?
-Acknowledgments
+
+#Acknowledgments
 Data was provided by the Data For Everyone Library on Crowdflower.
 
-Our Data for Everyone library is a collection of our favorite open data jobs that have come through our platform. They're available free of charge for the community, forever.
+##Dataset Link: https://www.kaggle.com/datasets/crowdflower/twitter-user-gender-classification
 
